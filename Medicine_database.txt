@@ -18,3 +18,4 @@
 22		 cholera		 443		 600.000000
 31		 disprin		 32		 32.000000
 41		 paracetmol		 32		 44.000000
+3523		 paracetamol		 424		 2324.000000
